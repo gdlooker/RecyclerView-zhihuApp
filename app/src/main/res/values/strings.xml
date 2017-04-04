@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">装逼新闻App</string>
+    <string name="menu_tag">menu_tag</string>
+    <string name="toggle_open">侧拉的打开</string>
+    <string name="toggle_close">侧拉的关闭</string>
+    <string name="itemNewsTitle">今日热点新闻</string>
+</resources>
